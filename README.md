@@ -302,5 +302,5 @@ pedidos-api/
 
 ## 📝 Notas
 
-- A documentação interativa da API está disponível em: [http://localhost:3000/api-docs](http://localhost:3000/docs).
+- A documentação interativa da API está disponível em: [http://localhost:3000/docs](http://localhost:3000/docs).
 - Certifique-se de que a porta `3000` está disponível no seu sistema antes de iniciar a aplicação.
